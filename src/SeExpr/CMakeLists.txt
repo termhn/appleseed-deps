@@ -94,9 +94,9 @@ ENDIF()
 ## Traverse subdirectories
 ADD_SUBDIRECTORY (src/SeExpr)
 ADD_SUBDIRECTORY (src/SeExprEditor)
-ADD_SUBDIRECTORY (src/doc)
-ADD_SUBDIRECTORY (src/demos)
-ADD_SUBDIRECTORY (src/tests)
+# ADD_SUBDIRECTORY (src/doc)
+# ADD_SUBDIRECTORY (src/demos)
+# ADD_SUBDIRECTORY (src/tests)
 
 
 
